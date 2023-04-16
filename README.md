@@ -16,3 +16,4 @@ ML_Assignment 5
 https://ucmo0-my.sharepoint.com/:v:/g/personal/mxl22590_ucmo_edu/EWlPUuQFbrZJoD_N4zJtOLUBZwWCdik0A_ToTERp6GQTNA?e=fJCMnX
 
 
+[A5_700742259_Lenkala .pdf](https://github.com/Manisha3196/ML/files/11241008/A5_700742259_Lenkala.pdf)
